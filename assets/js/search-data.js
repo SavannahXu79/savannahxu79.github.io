@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-mmj-bench-accepted-to-aaai2025-sparkles",
-          title: 'MMJ-Bench accepted to AAAI2025! :sparkles:',
-          description: "",
-          section: "News",},{id: "news-linkprompt-accepted-to-naacl2024-sparkles-see-you-in-mexico-smile",
+            },},{id: "news-linkprompt-accepted-to-naacl2024-sparkles-see-you-in-mexico-smile",
           title: 'LinkPrompt accepted to NAACL2024! :sparkles: See you in Mexico! :smile:',
           description: "",
           section: "News",},{id: "news-i-will-be-continuing-my-ph-d-journey-at-shanghaitech-university-advised-by-prof-wenjie-wang",
@@ -402,6 +399,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-cider-accepted-to-emnlp2024-sparkles",
           title: 'CIDER accepted to EMNLP2024! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-mmj-bench-accepted-to-aaai2025-sparkles",
+          title: 'MMJ-Bench accepted to AAAI2025! :sparkles:',
           description: "",
           section: "News",},{id: "news-fairmaker-accepted-to-neurips2025-sparkles-see-you-in-san-diego-smile",
           title: 'FaIRMaker accepted to NeurIPS2025! :sparkles: See you in San Diego! :smile:',
